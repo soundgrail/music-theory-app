@@ -1,0 +1,26 @@
+{
+  "name": "soundgrail-music-theory-app",
+  "version": "1.0.0",
+  "description": "Music Theory App learn and practice music theory with a free interactive app",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "music-theory",
+    "music-theory-app",
+    "music-education",
+    "chords",
+    "scales",
+    "ear-training",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "SoundGrail",
+  "license": "ISC",
+  "homepage": "https://soundgrail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundgrail/music-theory-app.git"
+  }
+}
